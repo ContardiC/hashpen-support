@@ -5,7 +5,7 @@
 ## Support
 If you have any questions, bug reports, feature requests, or need assistance with Hashpen:
 - **Open an issue:** Use the [Issues](../../issues) tab at the top of this page.
-- **Email:** tua-email@esempio.com
+- **Email:** info@spacecoding.it
 
 ---
 
